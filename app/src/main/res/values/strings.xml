@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Валютный калькулятор</string>
+    <string name="rouble">Российский рубль</string>
+    <string name="valute_name">%1$s (%2$s)</string>
+    <string name="value_result">%1$s %2$s</string>
+    <string name="text_result">Выберите валюту и введите сумму</string>
+    <string name="text_message">Подождите, идет загрузка&#8230;</string>
+    <string name="hint_edit">Сумма</string>
+    <string name="button_arrow_to">клавиша изменения направления конвертиации</string>
+    <string name="button_calc">клавиша произведения расчета</string>
+</resources>
